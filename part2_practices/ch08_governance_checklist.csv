@@ -1,0 +1,5 @@
+Item,Description,Owner,Frequency
+리스크 분류,모델 리스크 레벨 정의,Risk Team,Annually
+정책 검토,거버넌스 정책 주기적 검토,Compliance,Quarterly
+감사 로그,모델 사용 및 접근 로그 감사,Audit Team,Monthly
+모델 카드,모델 메타데이터 문서화,Data Science,With Release
